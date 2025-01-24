@@ -1,53 +1,33 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+### Hey there, I'm Ansh! 
 
-<h1 align="center">👋 Hi! I'm <a href="https://www.linkedin.com/in/singhal-ansh/" target="_blank"> Ansh </a> </h1>
-
-About me:
-
-🎓 I'm a third year student pursuing B.E. at **M.S. Ramaiah Institute of Technology** in Computer Science with a specialization in AI & ML.
-
-🔍 I'm a **Deep Learning** Developer actively building Computer Vision projects with a strong proficiency in Python.
-
-🚀 My goal? To explore and contribute to a multitude of AI and ML fields.
-
-<h3 align="center">Full-Stack Web Developer | Generative-AI enthusiast | Love to play with latest AI tools.</h3>
-
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=myselfshravan&label=Profile%20views&color=6805D3&style=flat" alt="myselfshravan" /> </p></h3>
-
-## Technical Skills 🛠
-
-- Programming Languages: Python, C++
-- Web Development: HTML5, CSS3, JavaScript, ReactJS
-- Back-End: Node.js, Firebase
-- Design Tools: Figma, Canva
-- Version Control: Git
-- IDE: Visual Studio Code, PyCharm
-
-<div align="center">
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div>
+I'm a Python developer who is passionate about building real-world deep learning solutions. My current work revolves around solving problems in the domain of Computer Vision.
 
 ---
+### 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhal-ansh/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](singhal.ansh0503@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-%23018EF5?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1_oumnHaoVV7R1QCLKygEKYnWjdnE1AG3/view?usp=sharing)
+[![Kaggle](https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge)](https://www.kaggle.com/soggyansh)
 
-I believe in implementing the knowledge which I have. Projects play a major role in showcasing our skills. They help in predicting the skills of a person. So let's have a look at my projects.
 
-## Projects
+### 🔧 Tech Stack & Tools
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&style=for-the-badge&logoColor=white)](#) ![Latex](https://img.shields.io/badge/latex-%23008080?style=for-the-badge&logo=latex&logoColor=white)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/) ![Pytorch](https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+[![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/SoggyAnsh) [![FastAPI](https://img.shields.io/badge/fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&style=for-the-badge&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
+[![PyTest](https://img.shields.io/badge/pytest-%230A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/en/stable/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white)](https://www.docker.com/) 
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&style=for-the-badge&logoColor=white)](https://ubuntu.com/) [![EndeavourOS](https://img.shields.io/badge/endeavouros-%237F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white)](https://endeavouros.com/)
+[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://anaconda.org/) [![Tmux](https://img.shields.io/badge/tmux-%231BB91F?style=for-the-badge&logo=tmux&logoColor=white)](https://github.com/tmux/tmux/wiki)
+![Zsh](https://img.shields.io/badge/Zsh-%23F15A24?style=for-the-badge&logo=Zsh&logoColor=white) [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&style=for-the-badge&logoColor=white)](https://neovim.io/) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/) [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&style=for-the-badge&logoColor=white)](https://www.jetbrains.com/pycharm/) [![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/) [![Postman](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/) [![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&style=for-the-badge&logoColor=white)](#)
 
-Let's have a look at some of my noteworthy projects:
 
-1. [My Portfolio Website](https://myselfshravan.github.io/shravan.github.io/): A showcase of my skills, built with HTML5, CSS3, JavaScript, and jQuery.
-2. [Websites List](https://myselfshravan.github.io/mywebsites/): A collection of websites I have developed.
-3. [AI Meal Planner](https://ai-meal-planner.streamlit.app): This project is a meal planning app that generates personalized meal plans based on a user's caloric needs and Personal Information. It utilizes natural language processing to generate creative meal ideas using ingredients selected by the greedy algorithm.
-4. [NoteRep](https://noterep.vercel.app): A platform enabling college students to share notes and study materials, garnering over 60,000 views.
 
-## Let's Connect
 
-I'm actively sharing my knowledge and resources on my [Telegram Channel](https://telegram.me/ComputerScienceStudentsClub). Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shravanrevanna) and [Instagram](https://www.instagram.com/shravanrevanna). I'm always happy to help!
+### :chart_with_upwards_trend: GitHub Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GRMenon&abbreviated=true&style=for-the-badge&color=brightgreen&base=500&label=Profile+Views" alt="Profile Views">
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GR-Menon&count_private=true&exclude_repo=optuna-integration,intel-oneAPI,streamlit_trial&theme=gotham&layout=compact&langs_count=8" alt="Ansh's GitHub Stats" />
+</p>
