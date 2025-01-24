@@ -25,9 +25,9 @@ I'm a Python developer who is passionate about building real-world deep learning
 
 ### :chart_with_upwards_trend: GitHub Stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GRMenon&abbreviated=true&style=for-the-badge&color=brightgreen&base=500&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=AnshDevelops&abbreviated=true&style=for-the-badge&color=brightgreen&base=500&label=Profile+Views" alt="Profile Views">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GR-Menon&count_private=true&exclude_repo=optuna-integration,intel-oneAPI,streamlit_trial&theme=gotham&layout=compact&langs_count=8" alt="Ansh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshDevelops&count_private=true&exclude_repo=optuna-integration,intel-oneAPI,streamlit_trial&theme=gotham&layout=compact&langs_count=8" alt="Ansh's GitHub Stats" />
 </p>
