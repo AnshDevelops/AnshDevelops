@@ -6,7 +6,7 @@ I'm a Python developer who is passionate about building real-world deep learning
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhal-ansh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:singhal.ansh0503@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-%23018EF5?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1JxLmmV9HPKBIgqdD9ofUL0AO3YlqlKUa/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-%23018EF5?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1PmtSI0pXzCLPIXjqiz83bXnXqhyJFdGL/view?usp=sharing)
 [![Kaggle](https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge)](https://www.kaggle.com/soggyansh)
 
 
